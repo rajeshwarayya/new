@@ -9,14 +9,14 @@ w<%@ page language="java" contentType="text/html; charset=UTF-8"
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to ideyalabs</h1>
+<h1 align="center">Welcome to ideyalabs.....</h1>
 <hr>
 <div style="text-align: center;">
 	
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:rajeshwarayya@ideyalabs.com">Mail to Ideyalabs</a>
+		<a href="mailto:rajeshwarayya@ideyalab.com">Mail to Ideyalabs</a>
 	</span>
 </div>
 <hr>
