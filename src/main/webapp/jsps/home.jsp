@@ -16,7 +16,7 @@ w<%@ page language="java" contentType="text/html; charset=UTF-8"
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:rajeshwarayya@ideyalabs.com">Mail to Ideyalabs</a>
+		<a href="mailto:rajeshwarayya@ideyalab.com">Mail to Ideyalabs</a>
 	</span>
 </div>
 <hr>
